@@ -52,4 +52,6 @@ categories_by_payments = {
     'SHOP "WWW.SUSHIVESLA.BY"': categories['cafe'],
     'SHOKOLADNITSA': categories['cafe'],
     'ZAKUS. "PIZZA FOOT" BAPB': categories['cafe'],
+    'ATMTBK HO22 NEMIGOFFV': categories['atms'],
+    'Продажа EasyPay': categories['finances']
 }
